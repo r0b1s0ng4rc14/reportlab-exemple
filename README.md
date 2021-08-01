@@ -1,7 +1,9 @@
 # reportlab-exemple
 <img src = "https://img.shields.io/badge/python-3.7.6-blue">
 
-Estudando sobre reportlab Python
+Estudando sobre reportlab Python.
+
+Basicamente foi aplicado um título para o documento PDF, título no corpo do documento, inserido logo ao canto superior direito e uma linha com parágrafo definido.
 
 ## Replicando o teste:
 
