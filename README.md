@@ -11,25 +11,25 @@ Basicamente foi aplicado um título para o documento PDF, título no corpo do do
 
 #### Criando
 ```sh 
-python3 -m venv .venv
+[user@host ~]$ python3 -m venv .venv
 ```
 #### Ativando (linux)
 ```sh 
-source .venv/bin/activate
+[user@host ~]$ source .venv/bin/activate
 ```
 
 ### Instalando as dependências:
 
 #### Atualizando o pip
 ```sh
- pip install --upgrade pip
+[user@host ~]$ pip install --upgrade pip
 ```
 #### Instalando
 ```sh
-pip install -r requirements.txt
+[user@host ~]$ pip install -r requirements.txt
 ```
 ### Iniciando:
 
 ```sh
-python3 main.py
+[user@host ~]$ python3 main.py
 ```
